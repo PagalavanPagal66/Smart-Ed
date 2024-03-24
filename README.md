@@ -42,4 +42,4 @@ After evaluating the performance of each model, LinearSVC was selected as the fi
 
 3. **Model Evaluation**: Evaluate the performance of each model using accuracy metrics on both training and testing datasets.
 
-4. **Final Model Selection**: Choose the model with the highest accuracy on the testing dataset as the final model for sentiment analysis.
+4. **Final Model Selection**: Choose the model with the highest accuracy on the testing dataset as the final model for video classification.
